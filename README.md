@@ -26,5 +26,7 @@ Fastq files
 
 ## Output
 TE RNA counts matrix will be in ./count/rnaseq.tab
+
 Quality control and trimmed FASTQ file will be in ./trim/rnaseq.fastq.gz
+
 Aligned BAM file will be in ./mapped/rnaseq.bam
