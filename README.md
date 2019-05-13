@@ -1,5 +1,5 @@
 # TERNA  [![travis](https://travis-ci.org/ssadedin/bpipe.svg?branch=master)](https://travis-ci.org/ssadedin/bpipe)
-Computing active Transposable Element from RNA-seq data
+Quantify RNAs derived from Transposable Element from RNA-seq data
 
 ## Requirements
 Bpipe, fastp, STAR, FeatureCounts
@@ -23,6 +23,6 @@ Fastq files
 
 
 ## Output
-TE derived RNA counts matrix will be in ./count/rnaseq.tab
+TE RNA counts matrix will be in ./count/rnaseq.tab
 Quality control and trimmed FASTQ file will be in ./trim/rnaseq.fastq.gz
 Aligned BAM file will be in ./mapped/rnaseq.bam
