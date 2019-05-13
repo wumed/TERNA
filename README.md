@@ -2,6 +2,7 @@
 Quantify RNAs derived from Transposable Element from RNA-seq data
 
 ## Requirements
+This pipeline is based on bpipe (https://github.com/ssadedin/bpipe).
 Bpipe, fastp, STAR, FeatureCounts
 
     conda install -c bioconda bpipe 
